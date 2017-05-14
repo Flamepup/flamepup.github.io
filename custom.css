@@ -1,0 +1,41 @@
+/*
+*General Elements
+*/
+body{
+    margin-top: 5em;
+    background-color: #eeeefd;
+}
+iframe{
+    height: 20em;
+    width: 80%;
+}
+img{
+    float: left;
+    width: 100%;
+}
+/*
+*Classes
+*/
+.carousel{
+    margin-bottom: 3em;
+}
+.carousel-inner{
+    height: 500px;
+}
+.article-image{
+    margin-bottom: 3em;
+}
+.inline{
+    display: inline;
+    float: left;
+}
+/*
+*ID's
+*/
+#map{
+    float: right;
+    height:  20em;
+} 
+#food-pic{
+    width: 15em;
+}
